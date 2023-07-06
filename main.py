@@ -1,0 +1,1 @@
+print("Decide your vibe")
